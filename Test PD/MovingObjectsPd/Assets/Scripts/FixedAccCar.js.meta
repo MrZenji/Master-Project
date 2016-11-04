@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 3e90d6f4a14f14cb6b8117cee69a1da1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hitSound: {fileID: 8300000, guid: 30f472507264a4471b3458693587007b, type: 3}
+  - driveSound: {fileID: 8300000, guid: 30f472507264a4471b3458693587007b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
